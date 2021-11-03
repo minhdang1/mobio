@@ -1,1 +1,20 @@
 /* You can add global styles to this file, and also import other style files */
+body {
+  background-color: #a8a8a8;
+}
+
+ul::-webkit-scrollbar-track {
+  -webkit-box-shadow: inset 0 0 3px transparent;
+  border-radius: 3px;
+}
+
+ul::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+  background-color: transparent;
+}
+
+ul::-webkit-scrollbar-thumb {
+  border-radius: 3px;
+  background-color: #666565;
+}

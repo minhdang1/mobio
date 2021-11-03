@@ -1,0 +1,711 @@
+{
+          "code": 200,
+          "data": [
+            {
+              "fields": [
+                {
+                  "field": "_dyn_gia_tri_hoan_phi_sample_mo_the_1592800725640",
+                  "field_name": "Gi\u00e1 tr\u1ecb ho\u00e0n ph\u00ed_sample m\u1edf th\u1ebb",
+                  "id": "",
+                  "replace": "*|GIA_TRI_HOAN_PHI_SAMPLE_MO_THE|*",
+                  "translate_key": "",
+                  "type": 0
+                },
+                {
+                  "field": "_dyn_gia_tri_hoan_tien_1594695896599",
+                  "field_name": "Gi\u00e1 tr\u1ecb ho\u00e0n ti\u1ec1n_campaign chi ti\u00eau",
+                  "id": "",
+                  "replace": "*|GIA_TRI_HOAN_TIEN_CAMPAIGN_CHI_TIEU|*",
+                  "translate_key": "",
+                  "type": 0
+                },
+                {
+                  "field": "_dyn_lang_myvib_1591786205938",
+                  "field_name": "LANG_MYVIB",
+                  "id": "",
+                  "replace": "*|LANG_MYVIB|*",
+                  "translate_key": "",
+                  "type": 0
+                },
+                {
+                  "field": "_dyn_muc_luong_1588925843905",
+                  "field_name": "M\u1ee9c l\u01b0\u01a1ng",
+                  "id": "",
+                  "replace": "*|MUC_LUONG|*",
+                  "translate_key": "",
+                  "type": 0
+                },
+                {
+                  "field": "_dyn_reward_tich_luy_mc_cr_online_plus_vnd__1588560792581",
+                  "field_name": "Reward t\u00edch l\u0169y MC CR ONLINE PLUS(VND)",
+                  "id": "",
+                  "replace": "*|REWARD_TICH_LUY_MC_CR_ONLINE_PLUS(VND)|*",
+                  "translate_key": "",
+                  "type": 0
+                },
+                {
+                  "field": "_dyn_reward_tich_luy_vib_cash_back_vnd__1588560708425",
+                  "field_name": "Reward t\u00edch l\u0169y VIB Cash Back(VND)",
+                  "id": "",
+                  "replace": "*|REWARD_TICH_LUY_VIB_CASH_BACK(VND)|*",
+                  "translate_key": "",
+                  "type": 0
+                },
+                {
+                  "field": "_dyn_reward_tich_luy_vib_happy_drive_lit_xang__1588560726820",
+                  "field_name": "Reward t\u00edch l\u0169y VIB Happy Drive(L\u00edt x\u0103ng)",
+                  "id": "",
+                  "replace": "*|REWARD_TICH_LUY_VIB_HAPPY_DRIVE(LIT_XANG)|*",
+                  "translate_key": "",
+                  "type": 0
+                },
+                {
+                  "field": "_dyn_reward_tich_luy_vib_premier_boundless_dam__1588560775442",
+                  "field_name": "Reward t\u00edch l\u0169y VIB PREMIER BOUNDLESS(D\u1eb7m)",
+                  "id": "",
+                  "replace": "*|REWARD_TICH_LUY_VIB_PREMIER_BOUNDLESS(DAM)|*",
+                  "translate_key": "",
+                  "type": 0
+                },
+                {
+                  "field": "_dyn_reward_tich_luy_vib_rewards_unlimited_diem__1588560747840",
+                  "field_name": "Reward t\u00edch l\u0169y VIB Rewards Unlimited(\u0111i\u1ec3m)",
+                  "id": "",
+                  "replace": "*|REWARD_TICH_LUY_VIB_REWARDS_UNLIMITED(DIEM)|*",
+                  "translate_key": "",
+                  "type": 0
+                },
+                {
+                  "field": "_dyn_reward_tich_luy_vib_travel_elite_dam__1588560761868",
+                  "field_name": "Reward t\u00edch l\u0169y VIB Travel Elite(D\u1eb7m)",
+                  "id": "",
+                  "replace": "*|REWARD_TICH_LUY_VIB_TRAVEL_ELITE(DAM)|*",
+                  "translate_key": "",
+                  "type": 0
+                },
+                {
+                  "field": "_dyn_su_dung_myvib_1591347254202",
+                  "field_name": "S\u1eed d\u1ee5ng MyVIB",
+                  "id": "",
+                  "replace": "*|SU_DUNG_MYVIB|*",
+                  "translate_key": "",
+                  "type": 0
+                },
+                {
+                  "field": "_dyn_thoi_gian_hoan_tien_campaign_chi_tieu_1594695935236",
+                  "field_name": "Th\u1eddi gian ho\u00e0n ti\u1ec1n_campaign chi ti\u00eau",
+                  "id": "",
+                  "replace": "*|THOI_GIAN_HOAN_TIEN_CAMPAIGN_CHI_TIEU|*",
+                  "translate_key": "",
+                  "type": 0
+                },
+                {
+                  "field": "_dyn_ten_cong_ty_1592369302713",
+                  "field_name": "T\u00ean c\u00f4ng ty",
+                  "id": "",
+                  "replace": "*|TEN_CONG_TY|*",
+                  "translate_key": "",
+                  "type": 0
+                },
+                {
+                  "field": "_dyn_dd_mmm_1625559527345",
+                  "field_name": "dd/mmm",
+                  "id": "",
+                  "replace": "*|DD/MMM|*",
+                  "translate_key": "",
+                  "type": 0
+                },
+                {
+                  "field": "_dyn_dropdown_multiple_1625557139295",
+                  "field_name": "dropdown multiple",
+                  "id": "",
+                  "replace": "*|DROPDOWN_MULTIPLE|*",
+                  "translate_key": "",
+                  "type": 0
+                },
+                {
+                  "field": "_dyn_fwafwafwa_1594894322781",
+                  "field_name": "fwafwafwa",
+                  "id": "",
+                  "replace": "*|FWAFWAFWA|*",
+                  "translate_key": "",
+                  "type": 0
+                },
+                {
+                  "field": "_dyn_muc_luong_1597890232241",
+                  "field_name": "muc luong",
+                  "id": "",
+                  "replace": "*|MUC_LUONG|*",
+                  "translate_key": "",
+                  "type": 0
+                },
+                {
+                  "field": "_dyn_test_1597722962258",
+                  "field_name": "test",
+                  "id": "",
+                  "replace": "*|TEST|*",
+                  "translate_key": "",
+                  "type": 0
+                },
+                {
+                  "field": "_dyn_test1_1597723266018",
+                  "field_name": "test1",
+                  "id": "",
+                  "replace": "*|TEST1|*",
+                  "translate_key": "",
+                  "type": 0
+                },
+                {
+                  "field": "_dyn_doan_bac_test_field_vib_1600945909373",
+                  "field_name": "\u0110o\u00e0n B\u1eafc test field vib",
+                  "id": "",
+                  "replace": "*|DOAN_BAC_TEST_FIELD_VIB|*",
+                  "translate_key": "",
+                  "type": 0
+                }
+              ],
+              "group": "dynamic",
+              "group_index": 6
+            },
+            {
+              "fields": [
+                {
+                  "field": "driver_license",
+                  "field_name": "driver_license",
+                  "id": "",
+                  "replace": "*|DRIVER_LICENSE|*",
+                  "translate_key": "i18n_driving_license",
+                  "type": 0
+                },
+                {
+                  "field": "identify_code",
+                  "field_name": "identify_code",
+                  "id": "",
+                  "replace": "*|IDENTIFY_CODE|*",
+                  "translate_key": "i18n_card_profile",
+                  "type": 0
+                },
+                {
+                  "field": "name",
+                  "field_name": "name",
+                  "id": "",
+                  "replace": "*|NAME|*",
+                  "translate_key": "i18n_fullname",
+                  "type": 0
+                },
+                {
+                  "field": "name_by_gender",
+                  "field_name": "name_by_gender",
+                  "id": "",
+                  "replace": "*|NAME_BY_GENDER|*",
+                  "translate_key": "i18n_name_by_gender",
+                  "type": 0
+                },
+                {
+                  "field": "passport",
+                  "field_name": "passport",
+                  "id": "",
+                  "replace": "*|PASSPORT|*",
+                  "translate_key": "i18n_passport",
+                  "type": 0
+                },
+                {
+                  "field": "primary_email",
+                  "field_name": "primary_email",
+                  "id": "",
+                  "replace": "*|PRIMARY_EMAIL|*",
+                  "translate_key": "i18n_email",
+                  "type": 0
+                },
+                {
+                  "field": "primary_phone",
+                  "field_name": "primary_phone",
+                  "id": "",
+                  "replace": "*|PRIMARY_PHONE|*",
+                  "translate_key": "i18n_phone_number",
+                  "type": 0
+                },
+                {
+                  "field": "secondary_emails",
+                  "field_name": "secondary_emails",
+                  "id": "",
+                  "replace": "*|SECONDARY_EMAILS|*",
+                  "translate_key": "i18n_email_other",
+                  "type": 0
+                },
+                {
+                  "field": "secondary_phones",
+                  "field_name": "secondary_phones",
+                  "id": "",
+                  "replace": "*|SECONDARY_PHONES|*",
+                  "translate_key": "i18n_phone_number_other",
+                  "type": 0
+                }
+              ],
+              "group": "information",
+              "group_index": 1
+            },
+            {
+              "fields": [
+                {
+                  "field": "created_time",
+                  "field_name": "created_time",
+                  "id": "",
+                  "replace": "*|CREATED_TIME|*",
+                  "translate_key": "i18n_start_time_source_recorded_profile_information_mobio",
+                  "type": 0
+                },
+                {
+                  "field": "customer_created_time",
+                  "field_name": "customer_created_time",
+                  "id": "",
+                  "replace": "*|CUSTOMER_CREATED_TIME|*",
+                  "translate_key": "i18n_start_time_source_recorded_profile_information_three",
+                  "type": 0
+                },
+                {
+                  "field": "customer_id",
+                  "field_name": "customer_id",
+                  "id": "",
+                  "replace": "*|CUSTOMER_ID|*",
+                  "translate_key": "i18n_id_profiles_three",
+                  "type": 0
+                },
+                {
+                  "field": "partner_point",
+                  "field_name": "partner_point",
+                  "id": "",
+                  "replace": "*|PARTNER_POINT|*",
+                  "translate_key": "i18n_point_accumulated_three",
+                  "type": 0
+                },
+                {
+                  "field": "source",
+                  "field_name": "source",
+                  "id": "",
+                  "replace": "*|SOURCE|*",
+                  "translate_key": "i18n_sources_of_information",
+                  "type": 0
+                },
+                {
+                  "field": "updated_time",
+                  "field_name": "updated_time",
+                  "id": "",
+                  "replace": "*|UPDATED_TIME|*",
+                  "translate_key": "i18n_update_time_source_recorded_profile_information_mobio",
+                  "type": 0
+                }
+              ],
+              "group": "other",
+              "group_index": 5
+            },
+            {
+              "fields": [
+                {
+                  "field": "birth_date",
+                  "field_name": "birth_date",
+                  "id": "",
+                  "replace": "*|BIRTH_DATE|*",
+                  "translate_key": "i18n_birth_date",
+                  "type": 0
+                },
+                {
+                  "field": "birth_month",
+                  "field_name": "birth_month",
+                  "id": "",
+                  "replace": "*|BIRTH_MONTH|*",
+                  "translate_key": "i18n_birth_month",
+                  "type": 0
+                },
+                {
+                  "field": "birthday",
+                  "field_name": "birthday",
+                  "id": "",
+                  "replace": "*|BIRTHDAY|*",
+                  "translate_key": "i18n_birthday_date",
+                  "type": 0
+                },
+                {
+                  "field": "degree",
+                  "field_name": "degree",
+                  "id": "",
+                  "replace": "*|DEGREE|*",
+                  "translate_key": "i18n_degree",
+                  "type": 0
+                },
+                {
+                  "field": "district_code",
+                  "field_name": "district_code",
+                  "id": "",
+                  "replace": "*|DISTRICT_CODE|*",
+                  "translate_key": "i18n_district",
+                  "type": 0
+                },
+                {
+                  "field": "gender",
+                  "field_name": "gender",
+                  "id": "",
+                  "replace": "*|GENDER|*",
+                  "translate_key": "i18n_gender",
+                  "type": 0
+                },
+                {
+                  "field": "job",
+                  "field_name": "job",
+                  "id": "",
+                  "replace": "*|JOB|*",
+                  "translate_key": "i18n_job",
+                  "type": 0
+                },
+                {
+                  "field": "marital_status",
+                  "field_name": "marital_status",
+                  "id": "",
+                  "replace": "*|MARITAL_STATUS|*",
+                  "translate_key": "i18n_marital_status",
+                  "type": 0
+                },
+                {
+                  "field": "nation",
+                  "field_name": "nation",
+                  "id": "",
+                  "replace": "*|NATION|*",
+                  "translate_key": "i18n_nation",
+                  "type": 0
+                },
+                {
+                  "field": "operation",
+                  "field_name": "operation",
+                  "id": "",
+                  "replace": "*|OPERATION|*",
+                  "translate_key": "i18n_operation",
+                  "type": 0
+                },
+                {
+                  "field": "profile_address",
+                  "field_name": "profile_address",
+                  "id": "",
+                  "replace": "*|PROFILE_ADDRESS|*",
+                  "translate_key": "i18n_address_label",
+                  "type": 0
+                },
+                {
+                  "field": "province_code",
+                  "field_name": "province_code",
+                  "id": "",
+                  "replace": "*|PROVINCE_CODE|*",
+                  "translate_key": "i18n_province_city",
+                  "type": 0
+                },
+                {
+                  "field": "religiousness",
+                  "field_name": "religiousness",
+                  "id": "",
+                  "replace": "*|RELIGIOUSNESS|*",
+                  "translate_key": "i18n_religion",
+                  "type": 0
+                }
+              ],
+              "group": "demographic",
+              "group_index": 2
+            },
+            {
+              "fields": [
+                {
+                  "field": "card_code",
+                  "field_name": "card_code",
+                  "id": "",
+                  "replace": "*|CARD_CODE|*",
+                  "translate_key": "i18n_id_card",
+                  "type": 0
+                },
+                {
+                  "field": "card_id",
+                  "field_name": "card_id",
+                  "id": "",
+                  "replace": "*|CARD_ID|*",
+                  "translate_key": "i18n_label_member_card_table_class",
+                  "type": 0
+                },
+                {
+                  "field": "card_status",
+                  "field_name": "card_status",
+                  "id": "",
+                  "replace": "*|CARD_STATUS|*",
+                  "translate_key": "i18n_card_status",
+                  "type": 0
+                },
+                {
+                  "field": "point",
+                  "field_name": "point",
+                  "id": "",
+                  "replace": "*|POINT|*",
+                  "translate_key": "i18n_point_consumption_mobio",
+                  "type": 0
+                },
+                {
+                  "field": "rank_point",
+                  "field_name": "rank_point",
+                  "id": "",
+                  "replace": "*|RANK_POINT|*",
+                  "translate_key": "i18n_point_rank_mobio",
+                  "type": 0
+                },
+                {
+                  "field": "vc_name",
+                  "field_name": "",
+                  "id": "",
+                  "replace": "*|VC_NAME|*",
+                  "translate_key": "i18n_name_gift_voucher",
+                  "type": 0
+                },
+                {
+                  "field": "vc_code",
+                  "field_name": "",
+                  "id": "",
+                  "replace": "*|VC_CODE|*",
+                  "translate_key": "i18n_code_gift_voucher",
+                  "type": 0
+                },
+                {
+                  "field": "vc_img_code",
+                  "field_name": "",
+                  "id": "",
+                  "replace": "*|VC_IMG_CODE|*",
+                  "translate_key": "i18n_link_code_QR_voucher",
+                  "type": 0
+                },
+                {
+                  "field": "vc_link_web",
+                  "field_name": "",
+                  "id": "",
+                  "replace": "*|VC_LINK_WEB|*",
+                  "translate_key": "i18n_link_get_voucher_by_link",
+                  "type": 0
+                },
+                {
+                  "field": "vc_valid_time",
+                  "field_name": "",
+                  "id": "",
+                  "replace": "*|VC_VALID_TIME|*",
+                  "translate_key": "i18n_time_active_voucher",
+                  "type": 0
+                },
+                {
+                  "field": "vc_max_reduce",
+                  "field_name": "",
+                  "id": "",
+                  "replace": "*|VOUCHER_MAX_REDUCE|*",
+                  "translate_key": "i18n_maximum_reduction_value",
+                  "type": 0
+                },
+                {
+                  "field": "vc_min_transaction",
+                  "field_name": "",
+                  "id": "",
+                  "replace": "*|VOUCHER_MIN_TRANSACTION|*",
+                  "translate_key": "i18n_minimum_reduction_value_of_transaction",
+                  "type": 0
+                },
+                {
+                  "field": "vc_discount",
+                  "field_name": "",
+                  "id": "",
+                  "replace": "*|VOUCHER_DISCOUNT|*",
+                  "translate_key": "i18n_reduction_value",
+                  "type": 0
+                }
+              ],
+              "group": "loyalty",
+              "group_index": 4
+            },
+            {
+              "fields": [
+                {
+                  "field_name": "D\u01b0 n\u1ee3 th\u1ebb",
+                  "fields": [
+                    {
+                      "description": "D\u01b0 n\u1ee3 th\u1ebb \nMC STD VIB (484)",
+                      "field": "field_du_no_the__mc_std_vib_(484)",
+                      "field_name": "D\u01b0 n\u1ee3 th\u1ebb  MC STD VIB (484)",
+                      "id": "0d14af9e-365f-414e-a35e-c012821ac946",
+                      "replace": "*|DU_NO_THE__MC_STD_VIB_(484)|*",
+                      "type": 1
+                    }
+                  ],
+                  "key": "CARD_BALANCE",
+                  "replace": "",
+                  "translate_key": "i18n_card_debt",
+                  "type": 1
+                },
+                {
+                  "field_name": "H\u1ea1n m\u1ee9c th\u1ebb",
+                  "fields": [
+                    {
+                      "description": "Chi ti\u00eau trong th\u00e1ng 8 t\u00ean t\u1ea5t c\u1ea3 th\u1ebb",
+                      "field": "field_chi_tieu_trong_thang_8_ten_tat_ca_the",
+                      "field_name": "Chi ti\u00eau trong th\u00e1ng 8 t\u00ean t\u1ea5t c\u1ea3 th\u1ebb",
+                      "id": "469896d4-83ea-4de8-a9d6-a6dcc8f76007",
+                      "replace": "*|CHI_TIEU_TRONG_THANG_8_TEN_TAT_CA_THE|*",
+                      "type": 1
+                    },
+                    {
+                      "description": "H\u1ea1n m\u1ee9c th\u1ebb \nMC STD VIB (484)",
+                      "field": "field_han_muc_the__mc_std_vib_(484)",
+                      "field_name": "H\u1ea1n m\u1ee9c th\u1ebb  MC STD VIB (484)",
+                      "id": "15dd4361-2321-494b-84dd-03a85184f56a",
+                      "replace": "*|HAN_MUC_THE__MC_STD_VIB_(484)|*",
+                      "type": 1
+                    }
+                  ],
+                  "key": "CARD_LIMIT",
+                  "replace": "",
+                  "translate_key": "i18n_card_limit",
+                  "type": 1
+                },
+                {
+                  "field_name": "S\u1ea3n ph\u1ea9m th\u1ebb",
+                  "fields": [
+                    {
+                      "description": "Tr\u01b0\u1eddng c\u00e1 nh\u00e2n h\u00f3a t\u1ef1 t\u1ea1o 01 l\u00e0 \u0111\u1ec3 test giao di\u1ec7n",
+                      "field": "field_truong_ca_nhan_hoa_tu_tao_01",
+                      "field_name": "Tr\u01b0\u1eddng c\u00e1 nh\u00e2n h\u00f3a t\u1ef1 t\u1ea1o 01",
+                      "id": "8a635712-c61f-44be-b752-867992aa1179",
+                      "replace": "*|TRUONG_CA_NHAN_HOA_TU_TAO_01|*",
+                      "type": 1
+                    },
+                    {
+                      "description": "S\u1ea3n ph\u1ea9m th\u1ebb \nMC STD VIB (484)",
+                      "field": "field__san_pham_the_mc_std_vib_(484)",
+                      "field_name": " S\u1ea3n ph\u1ea9m th\u1ebb MC STD VIB (484)",
+                      "id": "1da6e215-9eb3-4217-8a2c-71566b13f63c",
+                      "replace": "*|_SAN_PHAM_THE_MC_STD_VIB_(484)|*",
+                      "type": 1
+                    }
+                  ],
+                  "key": "CARD_PRODUCT",
+                  "replace": "",
+                  "translate_key": "i18n_card_products",
+                  "type": 1
+                },
+                {
+                  "field_name": "S\u1ed1 th\u1ebb",
+                  "fields": [
+                    {
+                      "description": "S\u1ed1 th\u1ebb \nMC STD VIB (484)",
+                      "field": "field__so_the_mc_std_vib_(484)",
+                      "field_name": " S\u1ed1 th\u1ebb MC STD VIB (484)",
+                      "id": "bd79d0a2-9013-4a3e-aba9-17fefae03cd6",
+                      "replace": "*|_SO_THE_MC_STD_VIB_(484)|*",
+                      "type": 1
+                    }
+                  ],
+                  "key": "CARD_NUMBER",
+                  "replace": "",
+                  "translate_key": "i18n_number_card",
+                  "type": 1
+                },
+                {
+                  "field_name": "T\u1ed5ng chi ti\u00eau t\u00edch l\u0169y",
+                  "fields": [
+                    {
+                      "description": "Chi ti\u00eau th\u00e1ng ng\u00e0y 18/8 th\u1ebb MC STD VIB (484) tr\u00ean t\u1ea5t c\u1ea3 c\u00e1c th\u1ebb",
+                      "field": "field__chi_tieu_thang_ngay_18/8_the_mc_std_vib_(484)",
+                      "field_name": " Chi ti\u00eau th\u00e1ng ng\u00e0y 18/8 th\u1ebb MC STD VIB (484)",
+                      "id": "4a52094f-03da-4f29-bbd5-515ead0f946b",
+                      "replace": "*|_CHI_TIEU_THANG_NGAY_18/8_THE_MC_STD_VIB_(484)|*",
+                      "type": 1
+                    },
+                    {
+                      "description": "Tr\u01b0\u1eddng c\u00e1 nh\u00e2n h\u00f3a t\u1ef1 t\u1ea1o 02 \u0111\u1ec3 test giao di\u1ec7n",
+                      "field": "field_truong_ca_nhan_hoa_tu_tao_02",
+                      "field_name": "Tr\u01b0\u1eddng c\u00e1 nh\u00e2n h\u00f3a t\u1ef1 t\u1ea1o 02",
+                      "id": "0e481c54-e41f-4c65-ad68-f8fbaf9c6479",
+                      "replace": "*|TRUONG_CA_NHAN_HOA_TU_TAO_02|*",
+                      "type": 1
+                    },
+                    {
+                      "description": "TEST 0000021 (102520)vTEST MBO 2448 (10002481)",
+                      "field": "field_chi_tieu_thang_ngay_18/8_the_mc_std_vib_(484)",
+                      "field_name": "Chi ti\u00eau th\u00e1ng ng\u00e0y 18/8 th\u1ebb MC STD VIB (484)",
+                      "id": "41ae926b-fb43-4b7d-bc46-41dfd698bae1",
+                      "replace": "*|CHI_TIEU_THANG_NGAY_18/8_THE_MC_STD_VIB_(484)|*",
+                      "type": 1
+                    },
+                    {
+                      "description": "T\u1ed5ng chi ti\u00eau t\u00edch l\u0169y th\u00e1ng 8",
+                      "field": "field_tong_chi_tieu_tich_luy_thang_8",
+                      "field_name": "T\u1ed5ng chi ti\u00eau t\u00edch l\u0169y th\u00e1ng 8",
+                      "id": "2c39fbdc-2f7c-41b7-a3b6-445e8ac1eb3b",
+                      "replace": "*|TONG_CHI_TIEU_TICH_LUY_THANG_8|*",
+                      "type": 1
+                    },
+                    {
+                      "description": "T\u1ed5ng chi ti\u00eau t\u00edch l\u0169y",
+                      "field": "field_tong_chi_tieu_tich_luy",
+                      "field_name": "T\u1ed5ng chi ti\u00eau t\u00edch l\u0169y",
+                      "id": "43f9d50d-6f49-4bd1-ab60-fc186296ad86",
+                      "replace": "*|TONG_CHI_TIEU_TICH_LUY|*",
+                      "type": 1
+                    }
+                  ],
+                  "key": "TOTAL_SPENDING",
+                  "replace": "",
+                  "translate_key": "i18n_cumulative_spending",
+                  "type": 1
+                },
+                {
+                  "field_name": "Tr\u1ea1ng th\u00e1i th\u1ebb",
+                  "fields": [
+                    {
+                      "description": "Tr\u1ea1ng th\u00e1i th\u1ebb MC STD VIB ",
+                      "field": "field_trang_thai_the_mc_std_vib_",
+                      "field_name": "Tr\u1ea1ng th\u00e1i th\u1ebb MC STD VIB ",
+                      "id": "c18e65a4-5c03-4d60-acad-71d416432eee",
+                      "replace": "*|TRANG_THAI_THE_MC_STD_VIB_|*",
+                      "type": 1
+                    }
+                  ],
+                  "key": "CARD_STATUS",
+                  "replace": "",
+                  "translate_key": "i18n_card_status",
+                  "type": 1
+                }
+              ],
+              "group": "dynamic_conditions",
+              "group_index": 7
+            },
+            {
+              "fields": [
+                {
+                  "description": "Tr\u01b0\u1eddng c\u00e1 nh\u00e2n h\u00f3a t\u1ef1 t\u1ea1o 04 test giao di\u1ec7n",
+                  "field": "field_truong_ca_nhan_hoa_tu_tao_04",
+                  "field_name": "Tr\u01b0\u1eddng c\u00e1 nh\u00e2n h\u00f3a t\u1ef1 t\u1ea1o 04",
+                  "id": "587f62df-f890-4029-8f5e-9ba939ab9758",
+                  "replace": "*|TRUONG_CA_NHAN_HOA_TU_TAO_04|*",
+                  "type": 2
+                },
+                {
+                  "description": "Tr\u01b0\u1eddng c\u00e1 nh\u00e2n h\u00f3a t\u1ef1 t\u1ea1o 03 test giao di\u1ec7n",
+                  "field": "field_truong_ca_nhan_hoa_tu_tao_03",
+                  "field_name": "Tr\u01b0\u1eddng c\u00e1 nh\u00e2n h\u00f3a t\u1ef1 t\u1ea1o 03",
+                  "id": "db54156d-cbe4-4bb9-8200-5209e9922b34",
+                  "replace": "*|TRUONG_CA_NHAN_HOA_TU_TAO_03|*",
+                  "type": 2
+                },
+                {
+                  "description": "100 tri\u1ec7u tr\u1eeb \u0111i t\u1ed5ng chi ti\u00eau tich luy th\u00e1ng 8",
+                  "field": "field_100_trieu_tru_di_tong_chi_tieu_tich_luy_thang_8",
+                  "field_name": "100 tri\u1ec7u tr\u1eeb \u0111i t\u1ed5ng chi ti\u00eau tich luy th\u00e1ng 8",
+                  "id": "556b2c48-1e4f-4138-8736-84a476ab079b",
+                  "replace": "*|100_TRIEU_TRU_DI_TONG_CHI_TIEU_TICH_LUY_THANG_8|*",
+                  "type": 2
+                }
+              ],
+              "group": "dynamic_calculate",
+              "group_index": 8
+            }
+          ],
+          "lang": "vi",
+          "message": "request th\u00e0nh c\u00f4ng."
+        }

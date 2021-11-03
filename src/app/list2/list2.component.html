@@ -1,0 +1,64 @@
+<div style="width: 750px; background-color: white; padding: 10vh; margin: auto">
+  <input
+    type="text"
+    placeholder="Tìm kiếm"
+    (keyup.enter)="search(searchText)"
+    [(ngModel)]="searchText"
+    class="searchText"
+  />
+  <ul>
+    <li *ngFor="let item of displayProducts">
+      <div>
+        <input type="checkbox" [checked]="item.chose" (click)="choose(item)" />
+        <span
+          [class]="!item.extended ? 'name arrow-down' : 'name arrow-up'"
+          (click)="item.extended = !item.extended"
+        >
+          {{ item.group | uppercase }}
+        </span>
+        <br />
+        <div *ngIf="item.extended" class="nested">
+          <div *ngIf="item.fieldsShow">
+            <div *ngFor="let i of item.fieldsShow">
+              <input type="checkbox" [checked]="i.chose" (click)="choose(i)" />
+              <span
+                [class]="
+                  !i.fieldsShow
+                    ? 'name'
+                    : !i.extended
+                    ? 'name arrow-down'
+                    : 'name arrow-up'
+                "
+                (click)="i.extended = !i.extended"
+              >
+                {{ i.field_name | lowercase }}
+              </span>
+              <br />
+              <div *ngIf="i.extended" class="nested">
+                <div *ngIf="i.fieldsShow">
+                  <div *ngFor="let j of i.fieldsShow">
+                    <input
+                      type="checkbox"
+                      [checked]="j.chose"
+                      (click)="choose(j)"
+                    />
+                    <span class="name" (click)="j.extended = !j.extended">
+                      {{ j.field_name | lowercase }}
+                    </span>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div *ngIf="!item.fieldsShow" style="padding-left: 10px">
+            Chưa có lựa chọn nào trong danh sách
+          </div>
+        </div>
+      </div>
+    </li>
+  </ul>
+  <label>
+    Sản phẩm đã chọn: <br />
+    <span *ngFor="let item of choseProducts">{{ item.field_name }}<br /></span>
+  </label>
+</div>

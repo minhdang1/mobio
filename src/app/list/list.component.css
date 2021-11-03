@@ -1,0 +1,44 @@
+ul {
+  list-style-type: none;
+  height: 500px;
+  overflow-y: scroll;
+  border-style: groove;
+  border-radius: 5px;
+  padding: 10px 20px;
+}
+
+li {
+  border-bottom-style: groove;
+  padding: 10px 0;
+}
+
+.searchText {
+  width: 735px;
+  padding: 5px;
+  border-radius: 5px;
+}
+
+.name {
+  cursor: pointer;
+  user-select: none;
+}
+
+.arrow-down::after {
+  content: "\221F";
+  color: black;
+  display: inline-block;
+  margin-right: 6px;
+  transform: rotate(-45deg);
+}
+
+.arrow-up::after {
+  content: "\221F";
+  color: black;
+  display: inline-block;
+  margin-right: 6px;
+  transform: rotate(135deg);
+}
+
+.nested {
+  margin-left: 10px;
+}

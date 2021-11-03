@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "mobio"
+    }
+  },
+  "defaultProject": "mobio",
+  "cli": {
+    "analytics": false
+  }
 }
