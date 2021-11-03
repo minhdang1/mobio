@@ -65,6 +65,7 @@ export class List2Component implements OnInit {
     }
     if (item.field_name) {
       let parent: any;
+      let grandParent: any;
       parent = this.products.find((i) => i.fields.includes(item));
       if (!parent) {
         this.products.every((i) => {
@@ -72,9 +73,13 @@ export class List2Component implements OnInit {
           if (parent) return false;
           else return true;
         });
+        grandParent = this.products.find((i) => i.fields.includes(parent));
       }
       if (parent.fields.every((i) => i.chose)) parent.chose = true;
       else parent.chose = false;
+      if (grandParent)
+        if (grandParent.fields.every((i) => i.chose)) grandParent.chose = true;
+        else grandParent.chose = false;
     }
   }
 
